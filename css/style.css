@@ -82,8 +82,8 @@ footer address { padding: 16px 0; font-size: 14px; font-style: normal; line-heig
 #cdct .wrap .part1 > h3 { font-size: 18px; margin: 30px 0 16px; color: #3e3f41; }
 
 #cdct .part2 { border-top: 1px dashed #8f929b; margin-top: 20px; }
-#cdct .part2 dl { float: left; width: 340px; height: 174px; padding-top: 20px; margin-right: 20px; border-bottom: 1px solid #dedee0; box-sizing: border-box; }
-#cdct .part2 dl:last-child { margin-right: 0; }
+#cdct .part2 div { float: left; width: 340px; height: 174px; padding-top: 20px; margin-right: 20px; border-bottom: 1px solid #dedee0; box-sizing: border-box; }
+#cdct .part2 div:last-child { margin-right: 0; }
 #cdct .part2 dl dt { margin: 14px 0 12px; color: #3e3f41; font-weight: bold; }
 #cdct .part2 dl dd { line-height: 1.3; }
 
